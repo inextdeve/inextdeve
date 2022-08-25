@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @inextdeve
+- 👀 I’m interested in ReactJS and NextJS
+- 🌱 I’m currently learning NextJS
+- 📫 How to reach me inext.dev@proton.me
